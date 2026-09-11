@@ -1,0 +1,4 @@
+product_id,name,category,price_info,ratings,stock_status
+0,2,0,0,1,In Stock
+1,1,1,2,0,Limited Stock
+2,0,0,1,2,In Stock

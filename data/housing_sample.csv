@@ -1,0 +1,6 @@
+Prop_ID,room_sqft_area,num_bedrooms,washrooms,parking_space,Price_Status,description
+P-101,1,450 sq.ft.,3 BHK,2,1 Covered,85 Lakhs,Luxury 3 BHK apartment with modern amenities and sea view.
+P-102,850 sq ft,2,,None,45 Lakhs,Cozy 2 BHK flat near downtown station.
+P-103,,4 Bedrooms,3 Baths,2 Cars,,Spacious family villa with private garden and pool.
+P-104,2,100 sq.ft.,4 BHK,4 Baths,2 Covered,150 Lakhs,Premium penthouse with skyline balcony view.
+P-105,600 sq ft,1 BHK,1 Bath,,30 Lakhs,Affordable studio apartment for working professionals.

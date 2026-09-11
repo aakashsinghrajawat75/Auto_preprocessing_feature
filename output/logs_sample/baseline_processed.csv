@@ -1,0 +1,4 @@
+attr_level,attr_service,timestamp,message,retry_count,response_time_ms
+ERROR,0,0,0,2,1
+INFO,2,1,2,0,0
+WARN,1,2,1,1,2

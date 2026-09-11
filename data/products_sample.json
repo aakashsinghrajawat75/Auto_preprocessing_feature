@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "PROD-001",
+    "name": "Wireless Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price_info": { "list_price": "14,999 INR", "discount_pct": 15 },
+    "ratings": { "score": 4.5, "review_count": 1250 },
+    "stock_status": "In Stock"
+  },
+  {
+    "product_id": "PROD-002",
+    "name": "Ergonomic Mesh Office Chair",
+    "category": "Furniture",
+    "price_info": { "list_price": "8,500 INR", "discount_pct": 10 },
+    "ratings": { "score": 4.2, "review_count": null },
+    "stock_status": "Limited Stock"
+  },
+  {
+    "product_id": "PROD-003",
+    "name": "4K Ultra HD Smart LED TV 55 Inch",
+    "category": "Electronics",
+    "price_info": { "list_price": "42,000 INR", "discount_pct": null },
+    "ratings": { "score": 4.8, "review_count": 3400 },
+    "stock_status": "In Stock"
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system_logs>
+    <log level="ERROR" service="auth-service">
+        <timestamp>2026-09-10 10:15:30</timestamp>
+        <message>Failed authentication attempt for user_id 8492 from IP 192.168.1.45</message>
+        <retry_count>3</retry_count>
+        <response_time_ms>450 ms</response_time_ms>
+    </log>
+    <log level="INFO" service="payment-service">
+        <timestamp>2026-09-10 10:16:05</timestamp>
+        <message>Payment transaction TXN-9921 processed successfully amount 2,500 USD</message>
+        <retry_count>0</retry_count>
+        <response_time_ms>120 ms</response_time_ms>
+    </log>
+    <log level="WARN" service="database-cluster">
+        <timestamp>2026-09-10 10:17:22</timestamp>
+        <message>High memory utilization detected: 88.5% threshold reached on node 2</message>
+        <retry_count>1</retry_count>
+        <response_time_ms>890 ms</response_time_ms>
+    </log>
+</system_logs>

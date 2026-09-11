@@ -1,0 +1,4 @@
+attr_level,attr_service,timestamp,message,retry_count,response_time_ms
+ERROR,auth-service,2026.0,Failed authentication attempt for user_id 8492 from IP 192.168.1.45,3.0,450.0
+INFO,payment-service,2026.0,"Payment transaction TXN-9921 processed successfully amount 2,500 USD",0.0,120.0
+WARN,database-cluster,2026.0,High memory utilization detected: 88.5% threshold reached on node 2,1.0,890.0
