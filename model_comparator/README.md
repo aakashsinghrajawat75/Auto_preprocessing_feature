@@ -1,10 +1,10 @@
-# ⚖️ `model_comparator` — Dedicated Model Benchmarking Package
+#  `model_comparator` — Dedicated Model Benchmarking Package
 
 The `model_comparator` subfolder isolates the dual-pathway feature generation and comparative machine learning evaluation.
 
 ---
 
-## 📄 File Inventory & Class Responsibilities
+##  File Inventory & Class Responsibilities
 
 ### 1. `baseline_pipeline.py`
 - **`BaselinePipeline`**: Simulates naive manual EDA (median fill, basic label encoding without regex string unit extraction) and exports `output/<dataset>/baseline_processed.csv`.
@@ -23,7 +23,7 @@ The `model_comparator` subfolder isolates the dual-pathway feature generation an
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Launch Dedicated Streamlit Dashboard

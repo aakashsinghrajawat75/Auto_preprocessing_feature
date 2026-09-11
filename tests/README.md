@@ -1,10 +1,10 @@
-# 🧪 `tests` — Automated Unit Test Suite
+#  `tests` — Automated Unit Test Suite
 
 The `tests` directory contains automated test suites verifying core AutoML engine components, data ingestors, imputers, vectorizers, and model benchmarking.
 
 ---
 
-## 📄 File Inventory & Test Coverage
+##  File Inventory & Test Coverage
 
 ### 1. `test_automl_engine.py` (6/6 Passed)
 - `test_csv_ingestor()`: Validates CSV delimiter inference and loading.
@@ -21,7 +21,7 @@ The `tests` directory contains automated test suites verifying core AutoML engin
 
 ---
 
-## 🚀 Execution Command
+##  Execution Command
 
 ```bash
 python3 tests/test_automl_engine.py

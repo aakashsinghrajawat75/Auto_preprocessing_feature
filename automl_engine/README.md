@@ -1,10 +1,10 @@
-# ⚙️ `automl_engine` Package Overview
+#  `automl_engine` Package Overview
 
 The `automl_engine` package is the core Object-Oriented Programming (OOP) foundation of the **SIH 2026 AutoML Engine**. It houses all autonomous components required to ingest, sanitize, profile, impute, vectorize, and evaluate tabular datasets.
 
 ---
 
-## 📂 Submodule Architecture
+##  Submodule Architecture
 
 | Submodule | Purpose & Class Responsibilities |
 | :--- | :--- |
@@ -19,7 +19,7 @@ The `automl_engine` package is the core Object-Oriented Programming (OOP) founda
 
 ---
 
-## 💻 Python Usage Example
+##  Python Usage Example
 
 ```python
 from automl_engine.pipeline import AutoMLPipeline

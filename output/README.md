@@ -1,10 +1,10 @@
-# 💾 `output` — Exported Tensor Artifacts & Processed Datasets
+#  `output` — Exported Tensor Artifacts & Processed Datasets
 
 The `output` directory stores exported processed CSVs, Parquet files, NumPy matrix binary files, and fitted model `.pkl` pickle files.
 
 ---
 
-## 📂 Subdirectory Structure
+##  Subdirectory Structure
 
 For each processed dataset, a dedicated folder is created under `output/`:
 
